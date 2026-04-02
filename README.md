@@ -7,7 +7,7 @@ This project represents a complete medical landing page with multiple sections l
 
 ## 🚀 Live Preview
 
-👉 (Add your GitHub Pages link here after deployment)
+👉 https://darshil-parekh.github.io/Medinova/
 
 ---
 
